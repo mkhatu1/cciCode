@@ -1,5 +1,3 @@
-// import java.util.Hashtable;
-
 public class cci1_9 {
 
     boolean isRotation(String s1, String s2){
